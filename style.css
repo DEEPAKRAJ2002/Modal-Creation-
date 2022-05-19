@@ -65,7 +65,23 @@ padding: 1vw;
 
   pointer-events: all;
 }
+button.bdy{
 
+    margin: 0.5vw;
+
+    padding: 1vw;
+
+    width: 10vw;
+
+    background-color: white;
+
+    border: 2px solid black;
+
+    border-radius: 6px;
+
+
+
+}
    
 
    

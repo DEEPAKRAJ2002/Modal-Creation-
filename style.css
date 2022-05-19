@@ -62,7 +62,7 @@ padding: 1vw;
 
 #overlay.active {
   opacity: 1;
-    background-color: red
+
   pointer-events: all;
 }
 button.bdy{
